@@ -3063,7 +3063,13 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  margin-bottom: 30px;
+  margin-bottom: 75px;
+}
+
+.service_area .single_service .icon img {
+    width: 75px;
+    margin-left: 10px;
+    height: auto;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -4585,6 +4591,7 @@ h6 {
   position: relative;
   padding-left: 30px;
   line-height: 1.82em !important;
+  font-size: 15px;
 }
 
 /* line 459, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_elements.scss */
